@@ -29,6 +29,6 @@ The dataset used for training and testing the model consists of a large collecti
 The model was trained for 25 epochs and achieved an accuracy of around 80% on the test dataset. While this is a decent performance, further improvements can be made by fine-tuning the model architecture, increasing the dataset size, or adjusting hyperparameters.
 
 ## Requirements
-Python 3.x
-TensorFlow
-Keras
+1. Python 3.8
+2. TensorFlow
+3. Keras
